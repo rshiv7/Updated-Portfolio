@@ -24,7 +24,7 @@ header{
 }
 
 h1{
-	/*Make teal box appearance*/
+	
 	background-color: #4aaaa5;
 	display: inline-block;
 	padding: 20px;
@@ -90,7 +90,7 @@ article{
 
 .connect_title{
 	text-align: center;
-	color: #4aaaa5;
+	color:blue;
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
 
 	font-weight: bold;
